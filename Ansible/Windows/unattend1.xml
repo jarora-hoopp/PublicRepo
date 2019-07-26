@@ -6,7 +6,7 @@
             <FirstLogonCommands>
                 <SynchronousCommand wcm:action="add">
                     <Order>1</Order>
-                    <CommandLine>c:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden C:\Temp\ConfigureRemotingForAnsible.ps1</CommandLine>
+                    <CommandLine>c:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -windowstyle hidden C:\Temp\ConfigureRemotingForAnsible.ps1 -ForceNewSSLCert</CommandLine>
                     <Description>Configure WinRM for Ansible</Description>
                 </SynchronousCommand>
             </FirstLogonCommands>
