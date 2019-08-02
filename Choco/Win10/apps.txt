@@ -1,0 +1,15 @@
+googlechrome
+7zip.install
+notepadplusplus.install
+keepass.install
+Git
+FireFox
+Putty.install
+WinSCP
+rdmfree
+vscode
+"terraform --version 0.11.14"
+"packer --version 1.4.1"
+malwarebytes
+office365proplus
+greenshot
